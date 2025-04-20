@@ -1,9 +1,20 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
 
+*COMPANY*: CODTECH IT SOLUTION
+
+*NAME*: SHREYAN NANDANWAR
+
+*INTERN ID*: 
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+**
 
 
-
-
-
+OUTPUT:
 ![Image](https://github.com/user-attachments/assets/296ef13f-2dbc-4b65-8a40-170602198405)
 ![Image](https://github.com/user-attachments/assets/e0c7689e-4037-47fc-8675-56fb26e049e1)
